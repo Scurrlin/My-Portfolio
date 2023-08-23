@@ -1,10 +1,10 @@
 import self from "../img/self.png"
 import mock1 from "../img/mock1.png"
 import mock2 from "../img/mock2.png"
+import mock4 from "../img/mock4.png"
 import mock3 from "../img/mock3.png"
 import mock5 from "../img/mock5.png"
 import mock6 from "../img/mock6.png"
-import mock7 from "../img/mock7.png"
 
 import { Class } from "node-forge/lib/asn1"
 
@@ -104,15 +104,15 @@ export const info = {
     ],
     portfolio: [ // This is where your portfolio projects will be detailed
         {
-            title: "🏋️ Lift Off 🚀 (MERN Stack)",
-            live: "https://paytonpierce.dev", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-            source: "https://github.com/paytonjewell", // this should be a link to the **repository** of the project, where the code is hosted.
+            title: "Up 4 ReVue (MERN Stack)",
+            live: "https://up-4-revue-client.onrender.com/",
+            source: "https://github.com/Scurrlin/Up-4-ReVue-Client",
             image: mock1
         },
         {
             title: "Dev Blog (MEN Stack)",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            live: "https://dev-blog-nn3i.onrender.com",
+            source: "https://github.com/Scurrlin/Dev-Blog/tree/main",
             image: mock2
         },
         {
