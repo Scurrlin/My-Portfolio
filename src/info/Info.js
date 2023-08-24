@@ -71,7 +71,7 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "I'm a passionate problem solver with a lifelong interest in software, tech hardware and music. Skilled in critical thinking and finding creative solutions, I have extensive experience solving complex problems from my time as a classical musician. I approach software development projects with enthusiasm and unwavering commitment to finding the best possible solution.",
+    bio: "From helping my college friends with music theory homework to implementing dozens of uniquely tailored solutions during my 5 years in higher education, I have forged a battle-tested passion for optimization. I'm a persistent problem solver with a lifelong interest in software, tech hardware and music. Skilled in critical thinking, I approach software development projects with enthusiasm and unwavering commitment to finding the best possible solution.",
     skills:
         {
             proficientWith: ['Javascript', 'React', 'Git', 'Github', 'Bootstrap', 'HTML5', 'CSS3', 'Express', 'Mongoose', 'MongoDB', 'NodeJS', 'Amazon S3'],
