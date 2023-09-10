@@ -1,10 +1,9 @@
 import self from "../img/self.png"
 import mock1 from "../img/mock1.png"
 import mock2 from "../img/mock2.png"
-import mock4 from "../img/mock4.png"
 import mock3 from "../img/mock3.png"
+import mock4 from "../img/mock4.png"
 import mock5 from "../img/mock5.png"
-import mock6 from "../img/mock6.png"
 
 import { Class } from "node-forge/lib/asn1"
 
@@ -116,28 +115,22 @@ export const info = {
             image: mock2
         },
         {
+            title: "SummarAIze",
+            live: "https://summaraize-jj5v.onrender.com/",
+            source: "https://github.com/Scurrlin/AI_Article_Summarizer_Clone",
+            image: mock3
+        },
+        {
             title: "Interval Training Game",
             live: "https://hearos-journey.onrender.com",
             source: "https://github.com/Scurrlin/Interval-Training-Game",
-            image: mock3
+            image: mock4
         },
         {
             title: "JS Calculator",
             live: "https://js-calculator-hurx.onrender.com",
             source: "https://github.com/Scurrlin/JS-Calculator",
-            image: mock4
-        },
-        {
-            title: "Hangman",
-            live: "https://spaceman-hsvf.onrender.com",
-            source: "https://github.com/Scurrlin/S_P_A_C_E_M_A_N",
             image: mock5
-        },
-        {
-            title: "Rock Paper Scissors",
-            live: "https://rps-2s17.onrender.com",
-            source: "https://github.com/Scurrlin/Rock-x-Paper-x-Scissors",
-            image: mock6
         }
     ]
 }
