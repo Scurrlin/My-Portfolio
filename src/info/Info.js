@@ -69,7 +69,7 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "From helping my college friends with music theory homework to implementing dozens of uniquely tailored solutions during my 5 years in higher education, I have forged a battle-tested passion for optimization. I'm a persistent problem solver with a lifelong interest in software, tech hardware and music. Skilled in critical thinking, I approach software development projects with enthusiasm and unwavering commitment to finding the best possible course of action.",
+    bio: "Operations Lead with 5 years of experience in education looking to leverage new skills in full-stack web development. Expertise includes designing, debugging, and deploying web applications using HTML, CSS, JavaScript, React, and MongoDB. Seeking a position as a Software Engineer.",
     skills:
         {
             proficientWith: ['Javascript', 'React', 'Git', 'Github', 'Bootstrap', 'HTML5', 'CSS3', 'Express', 'Mongoose', 'MongoDB', 'NodeJS', 'Amazon S3'],
