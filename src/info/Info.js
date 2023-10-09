@@ -1,5 +1,4 @@
 import self from "../img/self.png"
-import mock1 from "../img/mock1.png"
 import mock2 from "../img/mock2.png"
 import mock3 from "../img/mock3.png"
 import mock4 from "../img/mock4.png"
@@ -102,12 +101,6 @@ export const info = {
 // You can also remove the emojis if you'd like, I just think they look cute :P
     ],
     portfolio: [ // This is where your portfolio projects will be detailed
-        {
-            title: "Up 4 ReVue (MERN Stack)",
-            live: "https://up-4-revue-client.onrender.com/",
-            source: "https://github.com/Scurrlin/Up-4-ReVue-Client",
-            image: mock1
-        },
         {
             title: "Dev Blog (MEN Stack)",
             live: "https://dev-blog-nn3i.onrender.com",
