@@ -101,7 +101,7 @@ export const info = {
     ],
     portfolio: [ // This is where your portfolio projects will be detailed
         {
-            title: "Dev Blog (MEN Stack)",
+            title: "Dev Blog",
             live: "https://dev-blog-nn3i.onrender.com",
             source: "https://github.com/Scurrlin/Dev-Blog/tree/main",
             image: mock2
