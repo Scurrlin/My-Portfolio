@@ -2,7 +2,6 @@ import self from "../img/self.png"
 import mock2 from "../img/mock2.png"
 import mock3 from "../img/mock3.png"
 import mock4 from "../img/mock4.png"
-import mock5 from "../img/mock5.png"
 
 import { Class } from "node-forge/lib/asn1"
 
@@ -118,12 +117,6 @@ export const info = {
             live: "https://hearos-journey.onrender.com",
             source: "https://github.com/Scurrlin/Interval-Training-Game",
             image: mock4
-        },
-        {
-            title: "JS Calculator",
-            live: "https://js-calculator-hurx.onrender.com",
-            source: "https://github.com/Scurrlin/JS-Calculator",
-            image: mock5
         }
     ]
 }
