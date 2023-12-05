@@ -45,7 +45,7 @@ export const info = {
         },
         {
             emoji: "📂",
-            text: <a href="https://drive.google.com/file/d/1DDe-BeRil1aTZ2vdw6l_1xinESuTLbTO/view?usp=sharing"download="Sean Currlin - Software Engineer.pdf">Resume</a>
+            test: <a href="https://drive.google.com/file/d/1m8AZDBcysjB_m5rrR2gcvnah2yWYrysK/view?usp=sharing"download="Sean Currlin - Software Engineer.pdf">Resume</a>
         }
     ],
     socials: [
@@ -87,10 +87,6 @@ export const info = {
         {
             label: 'Fitness',
             emoji: '💪🏻'
-        },
-        {
-            label: 'Writing',
-            emoji: '✍🏻'
         },
         {
             label: 'Gaming',
