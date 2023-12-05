@@ -71,8 +71,8 @@ export const info = {
     bio: "Operations Lead with 5 years of experience in education looking to leverage new skills in full-stack web development. Expertise includes designing, debugging, and deploying web applications using HTML, CSS, JavaScript, React, and MongoDB. Seeking a position as a Software Engineer.",
     skills:
         {
-            proficientWith: ['Javascript', 'React', 'Git', 'Github', 'Bootstrap', 'HTML5', 'CSS3', 'Express', 'Mongoose', 'MongoDB', 'NodeJS', 'Amazon S3'],
-            exposedTo: ['Django', 'Python', 'PostgreSQL']
+            proficientWith: ['Python', 'PostgreSQL', 'Django','Javascript', 'React', 'HTML5', 'CSS3', 'Tailwind', 'Express', 'Mongoose', 'MongoDB','Git', 'Github', 'Bootstrap'],
+            exposedTo: ['TypeScript', 'NodeJS', 'Amazon S3']
         }
     ,
     hobbies: [
