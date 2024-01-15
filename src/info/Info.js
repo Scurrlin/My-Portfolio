@@ -98,7 +98,7 @@ export const info = {
     ],
     portfolio: [ // This is where your portfolio projects will be detailed
         {
-            title: "Arofficial",
+            title: "Artofficial",
             live: "http://www.artofficial.fun",
             source: "https://github.com/Scurrlin/Arofficial",
             image: mock1
