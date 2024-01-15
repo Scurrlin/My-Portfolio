@@ -1,8 +1,8 @@
 import self from "../img/self.png"
-import mock1_copy from "../img/mock1_copy.png"
+import mock1 from "../img/mock1.png"
 import mock2 from "../img/mock2.png"
 import mock3 from "../img/mock3.png"
-import mock4_copy from "../img/mock4_copy.png"
+import mock4 from "../img/mock4.png"
 
 import { Class } from "node-forge/lib/asn1"
 
@@ -101,7 +101,7 @@ export const info = {
             title: "Arofficial",
             live: "http://www.artofficial.fun",
             source: "https://github.com/Scurrlin/Arofficial",
-            image: mock1_copy
+            image: mock1
         },
         {
             title: "SummarAIze",
@@ -119,7 +119,7 @@ export const info = {
             title: "Crypt0Watch",
             live: "https://crypt0watch.onrender.com/",
             source: "https://github.com/Scurrlin/Crypt0Watch",
-            image: mock4_copy
+            image: mock4
         }
     ]
 }
