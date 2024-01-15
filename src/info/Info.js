@@ -1,4 +1,5 @@
 import self from "../img/self.png"
+import mock1 from "../img/mock1.png"
 import mock2 from "../img/mock2.png"
 import mock3 from "../img/mock3.png"
 import mock4 from "../img/mock4.png"
@@ -97,21 +98,27 @@ export const info = {
     ],
     portfolio: [ // This is where your portfolio projects will be detailed
         {
-            title: "Dev Blog",
-            live: "https://dev-blog-nn3i.onrender.com",
-            source: "https://github.com/Scurrlin/Dev-Blog/tree/main",
-            image: mock2
+            title: "Arofficial",
+            live: "http://www.artofficial.fun",
+            source: "https://github.com/Scurrlin/Arofficial",
+            image: mock1
         },
         {
             title: "SummarAIze",
             live: "https://summaraize-jj5v.onrender.com/",
             source: "https://github.com/Scurrlin/AI_Article_Summarizer_Clone",
+            image: mock2
+        },
+        {
+            title: "Dev Blog",
+            live: "https://dev-blog-nn3i.onrender.com",
+            source: "https://github.com/Scurrlin/Dev-Blog",
             image: mock3
         },
         {
-            title: "Interval Training Game",
-            live: "https://hearos-journey.onrender.com",
-            source: "https://github.com/Scurrlin/Interval-Training-Game",
+            title: "Crypt0Watch",
+            live: "https://crypt0watch.onrender.com/",
+            source: "https://github.com/Scurrlin/Crypt0Watch",
             image: mock4
         }
     ]
