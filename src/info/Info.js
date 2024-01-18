@@ -110,9 +110,9 @@ export const info = {
             image: mock2
         },
         {
-            title: "Dev Blog",
-            live: "https://dev-blog-nn3i.onrender.com",
-            source: "https://github.com/Scurrlin/Dev-Blog",
+            title: "Lift Off",
+            live: "https://www.lift-off.fun/login",
+            source: "https://github.com/Scurrlin/Lift-Off",
             image: mock3
         },
         {
