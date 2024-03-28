@@ -46,7 +46,7 @@ export const info = {
         },
         {
             emoji: "📂",
-            text: <a href="https://drive.google.com/file/d/1bIeq3KNMCQ9EL5IgcCIQ96Jc7JpCdx81/view?usp=sharing"download="Sean Currlin - Software Engineer.pdf">Resume</a>
+            text: <a href="https://drive.google.com/file/d/1bWSRuuXw544jFjDJSBMfYyDiRc6BlM0U/view?usp=sharing"download="Sean Currlin - Software Engineer.pdf">Resume</a>
         }
     ],
     socials: [
