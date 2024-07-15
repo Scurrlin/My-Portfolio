@@ -69,7 +69,7 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Full Stack Developer with 5 years of experience in education looking to leverage new skills in programming. Expertise includes designing, debugging, and deploying web applications using JavaScript, React, MongoDB, Python, Django, and SQL. Seeking a position as a Software Engineer.",
+    bio: "Full Stack Developer with 2 years of Customer Support experience. Expertise includes designing, debugging, and deploying web applications using JavaScript, React, Python, Django, SQL, and MongoDB.",
     skills:
         {
             proficientWith: ['Python', 'PostgreSQL', 'Django','Javascript', 'React', 'HTML5', 'CSS3', 'Tailwind', 'Express', 'Mongoose', 'MongoDB','Git', 'Github', 'Bootstrap'],
