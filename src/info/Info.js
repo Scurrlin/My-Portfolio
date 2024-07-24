@@ -46,7 +46,7 @@ export const info = {
         },
         {
             emoji: "📂",
-            text: <a href="https://drive.google.com/file/d/1oPmmloBcWgMSwxN3RED8eIi7T_l2r1jD/view?usp=sharing"download="Sean Currlin - Software Engineer.pdf">Resume</a>
+            text: <a href="https://drive.google.com/file/d/1ZwKjSu0bFSfmBTXZ8QvgTaOT2Mdo7qsd/view?usp=sharing"download="Sean Currlin - Software Engineer.pdf">Resume</a>
         }
     ],
     socials: [
@@ -69,7 +69,7 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Full Stack Developer with 2 years of Customer Support experience. Expertise includes designing, debugging, and deploying web applications using JavaScript, React, Python, Django, SQL, and MongoDB.",
+    bio: "Goal-oriented and technically astute professional with a strong background in customer support, onboarding, and solutions engineering.",
     skills:
         {
             proficientWith: ['Python', 'PostgreSQL', 'Django','Javascript', 'React', 'HTML5', 'CSS3', 'Tailwind', 'Express', 'Mongoose', 'MongoDB','Git', 'Github', 'Bootstrap'],
