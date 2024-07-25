@@ -69,7 +69,7 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Goal-oriented and technically astute professional with a strong background in customer support, onboarding, and solutions engineering.",
+    bio: "Goal-oriented technical professional with a strong background in customer support, onboarding, and solutions engineering.",
     skills:
         {
             proficientWith: ['Python', 'PostgreSQL', 'Django','Javascript', 'React', 'HTML5', 'CSS3', 'Tailwind', 'Express', 'Mongoose', 'MongoDB','Git', 'Github', 'Bootstrap'],
